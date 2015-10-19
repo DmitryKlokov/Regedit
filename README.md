@@ -1,0 +1,2 @@
+# Regedit
+laba 2
